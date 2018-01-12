@@ -11,4 +11,6 @@ sudo /etc/init.d/inetutils-inetd restart
 ```sh
 sudo apt-get install xinetd telnetd
 # For editing config files view
+sudo /etc/init.d/xinetd restart
+# check status
 ```
