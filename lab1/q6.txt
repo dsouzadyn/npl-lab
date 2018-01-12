@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.10.3-P4-Ubuntu <<>> laptop64.co
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33956
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4000
+;; QUESTION SECTION:
+;laptop64.co.			IN	A
+
+;; ANSWER SECTION:
+laptop64.co.		424	IN	A	160.153.137.167
+
+;; Query time: 18 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri Jan 12 11:11:52 IST 2018
+;; MSG SIZE  rcvd: 56
+

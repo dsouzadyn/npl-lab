@@ -1,0 +1,11 @@
+adminisrtetor@adminisrtetor-OptiPlex-3050:~/Documents/101509$ ftp 192.168.153.105
+Connected to 192.168.153.105.
+220 administrator-OptiPlex-3050 FTP server (Version 6.4/OpenBSD/Linux-ftpd-0.17) ready.
+Name (192.168.153.105:adminisrtetor): administrator
+331 Password required for administrator.
+Password:
+230 User administrator logged in.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> 
+

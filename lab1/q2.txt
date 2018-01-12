@@ -1,0 +1,7 @@
+PING laptop64.co (160.153.137.167) 56(84) bytes of data.
+64 bytes from ip-160-153-137-167.ip.secureserver.net (160.153.137.167): icmp_seq=1 ttl=52 time=142 ms
+64 bytes from ip-160-153-137-167.ip.secureserver.net (160.153.137.167): icmp_seq=2 ttl=52 time=142 ms
+
+--- laptop64.co ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 142.425/142.479/142.534/0.381 ms

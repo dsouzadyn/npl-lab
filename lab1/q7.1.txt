@@ -1,0 +1,12 @@
+adminisrtetor@adminisrtetor-OptiPlex-3050:~/Documents/101509/lab1$ rlogin administrator@192.168.153.104
+administrator@192.168.153.104's password: 
+Welcome to Ubuntu 16.04 LTS (GNU/Linux 4.4.0-108-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+392 packages can be updated.
+22 updates are security updates.
+
+Last login: Fri Jan 12 11:38:33 2018 from 192.168.153.95
+administrator@administrator-OptiPlex-3050:~$ 
+
