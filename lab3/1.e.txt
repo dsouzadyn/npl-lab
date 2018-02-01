@@ -1,0 +1,11 @@
+14:55:28.587452 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 1, length 64
+14:55:28.647701 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 1, length 64
+14:55:29.589413 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 2, length 64
+14:55:29.628715 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 2, length 64
+14:55:30.591041 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 3, length 64
+14:55:30.631014 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 3, length 64
+14:55:31.592350 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 4, length 64
+14:55:31.630053 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 4, length 64
+14:55:32.594392 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 5, length 64
+14:55:32.664346 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 5, length 64
+

@@ -1,0 +1,2 @@
+15:32:52.132909 IP 192.168.153.104.ftp-data > 192.168.153.95.52448: Flags [S], seq 3846783979, win 29200, options [mss 1460,sackOK,TS val 750327 ecr 0,nop,wscale 7], length 0
+15:32:52.133146 IP 192.168.153.95.52448 > 192.168.153.104.ftp-data: Flags [S.], seq 3616940248, ack 3846783980, win 28960, options [mss 1460,sackOK,TS val 761333 ecr 750327,nop,wscale 7], length 0
