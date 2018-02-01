@@ -14,3 +14,11 @@ sudo apt-get install xinetd telnetd
 sudo /etc/init.d/xinetd restart
 # check status
 ```
+
+## Solve permission issues for wireshark
+Logout and login as necessary
+```sh
+$ sudo adduser $USER wireshark
+$ sudo chown root /usr/bin/dumpcap
+$ sudo chmod u+s /usr/bin/dumpcap
+```
