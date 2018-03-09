@@ -1,0 +1,28 @@
+15:32:21.919601 ARP, Request who-has 192.168.153.104 (d8:9e:f3:0f:60:bd (oui Unknown)) tell kshitij, length 46
+15:32:21.919616 ARP, Reply 192.168.153.104 is-at d8:9e:f3:0f:60:bd (oui Unknown), length 28
+15:48:03.101328 IP 192.168.153.104.61021 > 192.168.200.254.domain: 39644+ [1au] A? google.com. (39)
+15:48:03.101630 IP 192.168.200.254.domain > 192.168.153.104.61021: 39644 1/0/1 A 172.217.26.238 (55)
+15:48:03.397505 IP 192.168.153.104.38294 > 192.168.200.254.domain: 26556+ PTR? 254.200.168.192.in-addr.arpa. (46)
+15:48:03.397883 IP 192.168.200.254.domain > 192.168.153.104.38294: 26556 NXDomain 0/0/0 (46)
+15:48:03.398366 IP 192.168.153.104.65074 > 192.168.200.254.domain: 64092+ PTR? 104.153.168.192.in-addr.arpa. (46)
+15:48:03.398684 IP 192.168.200.254.domain > 192.168.153.104.65074: 64092 NXDomain 0/0/0 (46)
+
+15:32:52.132909 IP 192.168.153.104.ftp-data > 192.168.153.95.52448: Flags [S], seq 3846783979, win 29200, options [mss 1460,sackOK,TS val 750327 ecr 0,nop,wscale 7], length 0
+15:32:52.133146 IP 192.168.153.95.52448 > 192.168.153.104.ftp-data: Flags [S.], seq 3616940248, ack 3846783980, win 28960, options [mss 1460,sackOK,TS val 761333 ecr 750327,nop,wscale 7], length 0
+14:55:28.587452 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 1, length 64
+14:55:28.647701 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 1, length 64
+14:55:29.589413 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 2, length 64
+14:55:29.628715 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 2, length 64
+14:55:30.591041 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 3, length 64
+14:55:30.631014 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 3, length 64
+14:55:31.592350 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 4, length 64
+14:55:31.630053 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 4, length 64
+14:55:32.594392 IP 192.168.153.104 > bom05s09-in-f14.1e100.net: ICMP echo request, id 3345, seq 5, length 64
+14:55:32.664346 IP bom05s09-in-f14.1e100.net > 192.168.153.104: ICMP echo reply, id 3345, seq 5, length 64
+
+15:39:07.971341 IP 192.168.153.104.39906 > 192.168.153.97.ssh: Flags [S], seq 4035034644, win 29200, options [mss 1460,sackOK,TS val 844287 ecr 0,nop,wscale 7], length 0
+15:39:07.971639 IP 192.168.153.97.ssh > 192.168.153.104.39906: Flags [R.], seq 0, ack 4035034645, win 0, length 0
+
+15:13:28.604652 IP 192.0.78.12.https > 192.168.153.104.44728: Flags [P.], seq 1291757346:1291757392, ack 1234312614, win 64, length 46
+15:13:28.604708 IP 192.168.153.104.44728 > 192.0.78.12.https: Flags [.], ack 46, win 1225, length 0
+15:13:28.604715 IP 192.0.78.12.https > 192.168.153.104.44728: Flags [P.], seq 46:77, ack 1, win 64, length 31

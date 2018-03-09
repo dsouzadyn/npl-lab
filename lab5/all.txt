@@ -1,0 +1,21 @@
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination         
+ACCEPT     tcp  --  192.168.153.104      anywhere             tcp dpt:ftp
+DROP       all  --  anywhere             anywhere            
+ACCEPT     tcp  --  192.168.153.104      anywhere             tcp dpt:ftp
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination         
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination         
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination         
+DROP       all  --  anywhere             anywhere            
+ACCEPT     tcp  --  192.168.153.95       anywhere             tcp spt:ftp
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination         
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination         

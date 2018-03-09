@@ -1,0 +1,9 @@
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination         
+DROP       tcp  --  anywhere             anywhere             tcp flags:FIN,SYN,RST,PSH,ACK,URG/SYN
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination         
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination         
